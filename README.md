@@ -1,8 +1,6 @@
-# stdio_blog_for_developer
-stdio.kr
 
 <h1>blog application for the developer</h1>
-
+<h3 style="color:red">stdio.kr</h3>
 <h3>functions</h3> 
 1. write an article(image + code + text) on the web<br>
 2. write an article on the linux console using python or node based program (through the API)<br>
