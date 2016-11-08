@@ -1,5 +1,5 @@
 
-<h1>blog application for the developer(node.js + react.js)</h1>
+<h1>blog application for the developers(node.js + react.js)</h1>
 <h3 style="color:red">stdio.kr</h3>
 <h3>functions</h3> 
 1. write an article(image + code + text) on the web<br>
