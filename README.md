@@ -6,4 +6,4 @@
 2. write an article on the linux console using python or node based program (through the API)<br>
    ex ) python write --code text.js --title 'test' --content 'test code'<br>
 3. simple & responsive UI, cardboard style<br>
-4. sort the article based on tags<br>
+4. sort articles based on tags<br>
